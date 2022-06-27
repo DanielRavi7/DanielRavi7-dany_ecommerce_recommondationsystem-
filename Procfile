@@ -1,1 +1,1 @@
-web: python app.py --blind 0.0.0.0:${PORT} wsgi
+web: s setup.sh && streamlit run app.py
