@@ -90,3 +90,4 @@ webencodings==0.5.1
 widgetsnbextension==3.6.1
 wincertstore==0.2
 zipp==3.8.0
+pexpect<=4.8.0
